@@ -1,5 +1,3 @@
-The databases are available as **excel** and **csv** files and a **preview** of the project is shown in the **PDF** file
-
 # Objective
 Preparing a report on the status of products and different regions to understand customers and products for more sales and profits
 
@@ -32,4 +30,5 @@ Preparing a report on the status of products and different regions to understand
 1. More **representation** should be established in the states of California, New York, and Texas because they had the most purchases, and more advertising should be done in the **northern** and **southern** states because they had the lowest sales (especially the states of the **District of Columbia**, **Maine**, and **West Virginia**)
 2. Investing more in the products mentioned in **#4** in the **Insights** title
 
+![SuperStore_Sales_Dashboard Preview](https://github.com/REXITOR/SuperStore_Sales_Dashboard/blob/master/Project%20preview.png)
 
