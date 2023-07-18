@@ -18,7 +18,7 @@ Preparing a report on the status of products and different regions to understand
 ### Insights
 
 1. The most sales were in **October** and **December** (compared to the previous year, the sales have **increased**)
-2. Also, in **October** and **December**, there was the highest profit 
+2. Also, in **October** and **December**, there was the highest profit \
 (compared to the previous year, the profit has **increased**)
 3. It has been sold the most in the states of **California**, **New York**, **Texas**, and the **western** and **eastern** regions
 4. In the categories of **office supplies**, **technology**, and **furniture**, and in the subcategories of **phones**, **chairs**, **binders**, and **storage**, the sales were the highest
@@ -30,6 +30,6 @@ Preparing a report on the status of products and different regions to understand
 ### Final Conclusion to improve store salas
 
 1. More **representation** should be established in the states of California, New York, and Texas because they had the most purchases, and more advertising should be done in the **northern** and **southern** states because they had the lowest sales (especially the states of the **District of Columbia**, **Maine**, and **West Virginia**)
-2. Investing more in the products mentioned in #4 in the Insights title 
+2. Investing more in the products mentioned in **#4** in the **Insights** title 
 
 
