@@ -10,6 +10,7 @@ Preparing a report on the status of products and different regions to understand
 3. Which state has the most product sales?? (Region)
 4. Which products have the most sales? (category and sub-category)
 5. Calculate the total of all orders and sales and profits.
+6. Forecast sales in the next 15 days.
 
 --------------------------------------------------------------------------------------------
 
@@ -21,7 +22,7 @@ Preparing a report on the status of products and different regions to understand
 3. It has been sold the most in the states of **California**, **New York**, **Texas**, and the **western** and **eastern** regions.
 4. In the categories of **office supplies**, **technology**, and **furniture**, and in the subcategories of **phones**, **chairs**, \
    **binders**, and **storage**, the sales were the highest.
-5. Total orders = **22K**, total sales = **1.6M** and total profits = **175K**.
+5. Total orders = **22K**, total sales = **1.6M** and total profits = **175K**
 
 --------------------------------------------------------------------------------------------
 
