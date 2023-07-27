@@ -26,7 +26,7 @@ Preparing a report on the status of products and different regions to understand
 
 --------------------------------------------------------------------------------------------
 
-### Final Conclusion to improve store salas
+### Final Conclusion to improve Superstore salas and profits
 
 1. More **representation** should be established in the states of California, New York, \
    and Texas because they had the most purchases, and more advertising should be done \
