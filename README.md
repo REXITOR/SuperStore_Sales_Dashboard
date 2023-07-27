@@ -9,7 +9,7 @@ Preparing a report on the status of products and different regions to understand
 2. In which month has there been more profits? (compared to the previous year)
 3. Which state has the most product sales?? (Region)
 4. Which products have the most sales? (category and sub-category)
-5. Calculate the total of all orders and sales and profits
+5. Calculate the total of all orders and sales and profits.
 
 --------------------------------------------------------------------------------------------
 
