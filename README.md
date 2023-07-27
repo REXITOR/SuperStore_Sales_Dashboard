@@ -1,5 +1,5 @@
 # Objective
-Preparing a report on the status of products and different regions to understand customers and products for more sales and profits
+Preparing a report on the status of products and different regions to understand customers and products for more sales and profits.
 
 --------------------------------------------------------------------------------------------
 
