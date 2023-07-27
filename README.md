@@ -19,9 +19,9 @@ Preparing a report on the status of products and different regions to understand
 2. Also, in **October** and **December**, there was the highest profit. \
    (compared to the previous year, the profit has **increased**)
 3. It has been sold the most in the states of **California**, **New York**, **Texas**, and the **western** and **eastern** regions.
-4. In the categories of **office supplies**, **technology**, and **furniture**, and in the subcategories of **phones**, **chairs**, **binders**, and **storage**, the sales were the highest.
+4. In the categories of **office supplies**, **technology**, and **furniture**, and in the subcategories of **phones**, **chairs**, \
+   **binders**, and **storage**, the sales were the highest.
 5. Total orders = **22K**, total sales = **1.6M** and total profits = **175K**.
-
 
 --------------------------------------------------------------------------------------------
 
