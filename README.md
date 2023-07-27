@@ -16,19 +16,23 @@ Preparing a report on the status of products and different regions to understand
 ### Insights
 
 1. The most sales were in **October** and **December** (compared to the previous year, the sales have **increased**)
-2. Also, in **October** and **December**, there was the highest profit \
-(compared to the previous year, the profit has **increased**)
-3. It has been sold the most in the states of **California**, **New York**, **Texas**, and the **western** and **eastern** regions
-4. In the categories of **office supplies**, **technology**, and **furniture**, and in the subcategories of **phones**, **chairs**, **binders**, and **storage**, the sales were the highest
-5. Total orders = **22K**, total sales = **1.6M** and total profits = **175K**
+2. Also, in **October** and **December**, there was the highest profit. \
+   (compared to the previous year, the profit has **increased**)
+3. It has been sold the most in the states of **California**, **New York**, **Texas**, and the **western** and **eastern** regions.
+4. In the categories of **office supplies**, **technology**, and **furniture**, and in the subcategories of **phones**, **chairs**, **binders**, and **storage**, the sales were the highest.
+5. Total orders = **22K**, total sales = **1.6M** and total profits = **175K**.
 
 
 --------------------------------------------------------------------------------------------
 
 ### Final Conclusion to improve store salas
 
-1. More **representation** should be established in the states of California, New York, and Texas because they had the most purchases, and more advertising should be done in the **northern** and **southern** states because they had the lowest sales (especially the states of the **District of Columbia**, **Maine**, and **West Virginia**)
-2. Investing more in the products mentioned in **#4** in the **Insights** title
+1. More **representation** should be established in the states of California, New York, and Texas because they had the most purchases, \
+   and more advertising should be done in the **northern** and **southern** states because they had the lowest sales. \
+   (especially the states of the **District of Columbia**, **Maine**, and **West Virginia**)
+2. Investing more in the products mentioned in **#4** in the **Insights** title.
 
-![SuperStore_Sales_Dashboard Preview](https://github.com/REXITOR/SuperStore_Sales_Dashboard/blob/master/Project%20preview.png)
+![SuperStore_Sales_Dashboard Preview](https://github.com/REXITOR/SuperStore_Sales_Dashboard/blob/master/Preview/1-PNG%20project%20preview.png)
+--------------------------------------------------------------------------------------------
+![Forecasting_Preview](https://github.com/REXITOR/SuperStore_Sales_Dashboard/blob/master/Preview/2-PNG%20project%20preview.png)
 
