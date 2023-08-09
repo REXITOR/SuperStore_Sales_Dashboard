@@ -30,7 +30,7 @@ Preparing a report on the status of products and different regions to understand
 
 1. More **representation** should be established in the states of California, New York, \
    and Texas because they had the most purchases, and more advertising should be done \
-   in the **northern** and **southern** states because they had the lowest sales. \
+   in the **southern** state because they had the lowest sales. \
    (especially the states of the **District of Columbia**, **Maine**, and **West Virginia**)
 3. Investing more in the products mentioned in **#4** in the **Insights** title.
 
