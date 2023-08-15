@@ -29,7 +29,7 @@ Preparing a report on the status of products and different regions to understand
 ### Final Conclusion to improve SuperStore salas and profits
 
 1. More **representation** should be established in the states of California, New York, \
-   and Texas because they had the most purchases, and more advertising should be done \
+   and Texas because they had the most purchases, and more **advertising** should be done \
    in the **southern** state because they had the lowest sales. \
    (especially the states of the **District of Columbia**, **Maine**, and **West Virginia**)
 3. Investing more in the products mentioned in **#4** in the **Insights** title.
