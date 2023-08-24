@@ -1,5 +1,5 @@
 # Objective
-Preparing a report on the status of products and different regions to understand customers and products for more sales and profits.
+Status of products in different regions to understand customers and products for more sales and profit.
 
 ## KPI
 1. In which month has there been more sales? (compared to the previous year)
