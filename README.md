@@ -1,7 +1,7 @@
 # Objective
 Status of products in different regions to understand customers and products for more sales and profit.
 
-## KPI
+## KPIs
 1. In which month has there been more sales? (compared to the previous year)
 2. In which month has there been more profits? (compared to the previous year)
 3. Which state has the most product sales? (Region)
